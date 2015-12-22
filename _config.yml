@@ -1,0 +1,14 @@
+layout_spectrum: 0.4840452
+color:
+  saturation: 0.5810381
+  brandStrength: 0.5611145
+  lightness: 0.8982388
+  brandColors:
+    - '#020203'
+    - '#5A5B5E'
+    - '#2F2F31'
+    - '#787A7D'
+    - '#A1A2A5'
+  rhythmicContrast: 0.8752962
+typography_spectrum: 0.8468874
+name: meshablaine
