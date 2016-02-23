@@ -1,14 +1,29 @@
+name: meshablaine
+favicon: null
 layout_spectrum: 0.4840452
+typography_spectrum: 0.8468874
+title: kinsi
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5810381
-  brandStrength: 0.5611145
-  lightness: 0.8982388
   brandColors:
     - '#020203'
     - '#5A5B5E'
     - '#2F2F31'
     - '#787A7D'
     - '#A1A2A5'
+  brandStrength: 0.5611145
+  lightness: 0.8982388
+  saturation: 0.5810381
   rhythmicContrast: 0.8752962
-typography_spectrum: 0.8468874
-name: meshablaine
+purpose: []
